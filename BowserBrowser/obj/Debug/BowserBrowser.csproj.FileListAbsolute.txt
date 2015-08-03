@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2013\Projects\BowserBrowser\BowserBrowser\bin\Debug\BowserBrowser.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\BowserBrowser\BowserBrowser\bin\Debug\BowserBrowser.exe
+c:\users\owner\documents\visual studio 2013\Projects\BowserBrowser\BowserBrowser\bin\Debug\BowserBrowser.pdb
+c:\users\owner\documents\visual studio 2013\Projects\BowserBrowser\BowserBrowser\obj\Debug\BowserBrowser.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2013\Projects\BowserBrowser\BowserBrowser\obj\Debug\BowserBrowser.Form1.resources
+c:\users\owner\documents\visual studio 2013\Projects\BowserBrowser\BowserBrowser\obj\Debug\BowserBrowser.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2013\Projects\BowserBrowser\BowserBrowser\obj\Debug\BowserBrowser.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2013\Projects\BowserBrowser\BowserBrowser\obj\Debug\BowserBrowser.exe
+c:\users\owner\documents\visual studio 2013\Projects\BowserBrowser\BowserBrowser\obj\Debug\BowserBrowser.pdb
